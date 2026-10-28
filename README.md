@@ -43,7 +43,6 @@ All products below are architected, tested, localized (EN / 繁體中文 / 日�
 | :--- | :--- | :--- | :--- |
 | **🏋️‍♂️ GymMayday** | iOS (SwiftUI) & Android (Jetpack Compose) | AI-assisted beginner fitness & gym equipment coach, offline-first workout logging, trilingual localization (EN/ZH-TW/JA), strict E2E QA regression coverage. | [🌐 e3t4fun.com/gymmayday](https://e3t4fun.com/gymmayday/) |
 | **🃏 RookiePit** | iOS (SwiftUI) & Android (Jetpack Compose) | AI Vision camera scanner for Sports Cards & TCG, structured JSON identification gateway, multi-currency FX rate cache, and real-time market price tracking. | [🌐 e3t4fun.com/rookiepit](https://e3t4fun.com/rookiepit/) |
-| **🔥 Ante Streak** | iOS (SwiftUI) | High-reliability habit & streak tracking utility built with deterministic local state persistence and clean native UI. | [🌐 e3t4fun.com](https://e3t4fun.com) |
 
 ---
 
